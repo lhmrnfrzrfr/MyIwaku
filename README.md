@@ -1,4 +1,4 @@
-# MyIwaku
-an Online e-commerce app for fish market based on Android
+# Iwaku
+Merupakan aplikasi jual beli ikan berbasis android untuk memajukan perekonomian para nelayan di provinsi banten khususnya daerah pesisir pantai anyer
 
 ## Updated Soon! ##
